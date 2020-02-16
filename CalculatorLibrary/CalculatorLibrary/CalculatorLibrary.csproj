@@ -46,6 +46,10 @@
     <Compile Include="Command.cs" />
     <Compile Include="Div.cs" />
     <Compile Include="Invoker.cs" />
+    <Compile Include="MC.cs" />
+    <Compile Include="MemoryCommand.cs" />
+    <Compile Include="MMinus.cs" />
+    <Compile Include="MPlus.cs" />
     <Compile Include="Mul.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Reciever.cs" />

@@ -10,3 +10,15 @@ C:\Users\koska\Desktop\CalculatorLibrary\ClientCalculator\obj\Debug\ClientCalcul
 C:\Users\koska\Desktop\CalculatorLibrary\ClientCalculator\obj\Debug\ClientCalculator.csproj.CopyComplete
 C:\Users\koska\Desktop\CalculatorLibrary\ClientCalculator\obj\Debug\ClientCalculator.exe
 C:\Users\koska\Desktop\CalculatorLibrary\ClientCalculator\obj\Debug\ClientCalculator.pdb
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\ClientCalculator\bin\Debug\ClientCalculator.exe.config
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\ClientCalculator\bin\Debug\ClientCalculator.exe
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\ClientCalculator\bin\Debug\ClientCalculator.pdb
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\ClientCalculator\bin\Debug\CalculatorLibrary.dll
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\ClientCalculator\bin\Debug\CalculatorLibrary.pdb
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\ClientCalculator\obj\Debug\ClientCalculator.csprojAssemblyReference.cache
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\ClientCalculator\obj\Debug\ClientCalculator.Form1.resources
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\ClientCalculator\obj\Debug\ClientCalculator.Properties.Resources.resources
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\ClientCalculator\obj\Debug\ClientCalculator.csproj.GenerateResource.cache
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\ClientCalculator\obj\Debug\ClientCalculator.csproj.CopyComplete
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\ClientCalculator\obj\Debug\ClientCalculator.exe
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\ClientCalculator\obj\Debug\ClientCalculator.pdb
