@@ -1,0 +1,17 @@
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\WpfClientCalculator\bin\Debug\WpfClientCalculator.exe.config
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\WpfClientCalculator\bin\Debug\WpfClientCalculator.exe
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\WpfClientCalculator\bin\Debug\WpfClientCalculator.pdb
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\WpfClientCalculator\obj\Debug\WpfClientCalculator.csprojAssemblyReference.cache
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\WpfClientCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\WpfClientCalculator\obj\Debug\App.g.cs
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\WpfClientCalculator\obj\Debug\WpfClientCalculator_MarkupCompile.cache
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\WpfClientCalculator\obj\Debug\WpfClientCalculator_MarkupCompile.lref
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\WpfClientCalculator\obj\Debug\MainWindow.baml
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\WpfClientCalculator\obj\Debug\WpfClientCalculator.g.resources
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\WpfClientCalculator\obj\Debug\WpfClientCalculator.Properties.Resources.resources
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\WpfClientCalculator\obj\Debug\WpfClientCalculator.csproj.GenerateResource.cache
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\WpfClientCalculator\obj\Debug\WpfClientCalculator.exe
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\WpfClientCalculator\obj\Debug\WpfClientCalculator.pdb
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\WpfClientCalculator\bin\Debug\CalculatorLibrary.dll
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\WpfClientCalculator\bin\Debug\CalculatorLibrary.pdb
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\WpfClientCalculator\obj\Debug\WpfClientCalculator.csproj.CopyComplete

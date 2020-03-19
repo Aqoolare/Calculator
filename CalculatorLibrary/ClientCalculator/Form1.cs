@@ -59,6 +59,13 @@ namespace ClientCalculator
             return arithmeticUnit.MemoryValue;
         }
 
+        private Complex RunCancelCommand(Command command)
+        {
+            controlUnit.StoreCommand(command);
+            controlUnit.ExecuteCommand();
+            return arithmeticUnit.Register;
+        }
+
         private void OutputResult(Complex number)
         {
             textBox6.Text = number.Real.ToString();
@@ -163,6 +170,21 @@ namespace ClientCalculator
         private void button5_Click(object sender, EventArgs e)
         {
             label8.Text = MC().ToString();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            var num = RunCancelCommand(new Cancel(arithmeticUnit));
+            if (num.Real < 0)
+            {
+                comboBox2.SelectedItem = '-';
+            }
+            if (num.Imaginary < 0)
+            {
+                comboBox3.SelectedItem = '-';
+            }
+            textBox1.Text = Math.Abs(num.Real).ToString();
+            textBox2.Text = Math.Abs(num.Imaginary).ToString();
         }
     }
 }

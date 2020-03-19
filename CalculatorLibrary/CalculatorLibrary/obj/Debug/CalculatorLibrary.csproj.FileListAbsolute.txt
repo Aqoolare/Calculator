@@ -5,6 +5,6 @@ C:\Users\koska\Desktop\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorL
 C:\Users\koska\Desktop\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb
 C:\Users\koska\Desktop\Calculator\CalculatorLibrary\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
 C:\Users\koska\Desktop\Calculator\CalculatorLibrary\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
-C:\Users\koska\Desktop\Calculator\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.csprojAssemblyReference.cache
 C:\Users\koska\Desktop\Calculator\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
 C:\Users\koska\Desktop\Calculator\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb
+C:\Users\koska\Desktop\Calculator\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.csprojAssemblyReference.cache

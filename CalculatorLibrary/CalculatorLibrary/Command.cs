@@ -7,7 +7,6 @@ namespace CalculatorLibrary
         protected Reciever reciever;
         protected Complex firstOperand;
         protected Complex secondOperand;
-
         public abstract void Execute();
     }
 }
